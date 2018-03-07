@@ -66,5 +66,8 @@
     <release-note plugin-version="24">
         Added Cloud Foundry CLI Path property as a hidden variable to all automation steps.
     </release-note>
+    <release-note plugin-version="25">
+        Change dependency on UrbanCode Deploy Versioned File Storage plug-in to version 30
+    </release-note>
   </release-notes>
 </pluginInfo>
